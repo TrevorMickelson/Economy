@@ -1,0 +1,7 @@
+name: Economy
+author: CodePunisher
+version: 1.0
+main: com.mcaim.economy.EcoMain
+depend:
+  - McAimCore
+api-version: 1.16
